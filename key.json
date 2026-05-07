@@ -21,5 +21,13 @@
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
   },
-  "Keys": {}
+  "Keys": {
+    "InfernoCrissDev": {
+      "hwid": "MATRIX-XYZ",
+      "expireDate": "2026-05-16",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Owner"
+    }
+  }
 }
