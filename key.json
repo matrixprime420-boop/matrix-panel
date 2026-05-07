@@ -19,5 +19,13 @@
     "updateUrl": "https://whatsapp.com/channel/0029VbChLxTAe5W053Ox5f3l"
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "PN_ANIK": {
+      "hwid": "RESET",
+      "expireDate": "2026-05-09",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
