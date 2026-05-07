@@ -5,8 +5,8 @@
     "getKeyUrl": "https://matrix-store-xyz.netlify.app/",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
-    "maintenanceMode": false,
-    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "maintenanceMode": true,
+    "maintenanceMsg": "Matrix Fluorite server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
       "👨‍💻 Developed by  Matrix👨‍💻",
@@ -14,8 +14,8 @@
       "🛠 Stable Build"
     ],
     "title": "Matrix Cheats",
-    "updateMsg": "New Android Fluorite Version Available! Please Update.",
-    "updateRequired": true,
+    "updateMsg": "New Matrix Fluorite Version Available! Please Update.",
+    "updateRequired": false,
     "updateUrl": "https://whatsapp.com/channel/0029VbChLxTAe5W053Ox5f3l"
   },
   "BannedHWIDs": {
