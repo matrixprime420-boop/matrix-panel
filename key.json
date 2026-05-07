@@ -15,7 +15,7 @@
     ],
     "title": "Matrix Cheats",
     "updateMsg": "New Android Fluorite Version Available! Please Update.",
-    "updateRequired": false,
+    "updateRequired": true,
     "updateUrl": "https://whatsapp.com/channel/0029VbChLxTAe5W053Ox5f3l"
   },
   "BannedHWIDs": {
