@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Owner"
+    },
+    "DPMods-AYRFDP": {
+      "hwid": "MATRIX-XYZ",
+      "expireDate": "2026-05-16",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Owner"
     }
   }
 }
